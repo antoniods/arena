@@ -2,7 +2,7 @@
   "name": "arena",
   "version": "1.1.0",
   "private": false,
-  "homepage": "https://eager-lamport-ff60e8.netlify.app/",
+  "homepage": "https://antoniods.github.io/arena",
   "dependencies": {
     "bootstrap": "4.3.1",
     "chart.js": "2.7.2",
